@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+ansible/roles/
+roles/
+tmp/
+ansible/
+/stash_nt_ise_ansible.iml
+/my_inv.iml
+/freespace.iml
